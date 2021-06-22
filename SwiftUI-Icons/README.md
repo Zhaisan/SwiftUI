@@ -1,1 +1,1 @@
-https://github.com/huybuidac/swiftuifonticon
+package: https://github.com/huybuidac/swiftuifonticon
