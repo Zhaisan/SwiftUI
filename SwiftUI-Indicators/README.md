@@ -1,1 +1,1 @@
-https://github.com/exyte/ActivityIndicatorView
+package: https://github.com/exyte/ActivityIndicatorView
